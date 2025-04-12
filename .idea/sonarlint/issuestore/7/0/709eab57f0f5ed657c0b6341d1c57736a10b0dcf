@@ -1,0 +1,6 @@
+
+k
+java:S1192%"PDefine a constant instead of duplicating this literal "Invalid index: " 3 times.(¿ý£‘üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ«ÞËøÿÿÿÿ
+E	java:S106j"+Replace this use of System.out by a logger.(€Ä€ôúÿÿÿÿ
+E	java:S106m"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
