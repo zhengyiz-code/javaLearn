@@ -40,4 +40,9 @@ public class CircularLinkedList<T> {
             current = current.next;
         } while (current != head);
     }
+    
+    // 获取链表大小
+    public int size() {
+        return size;
+    }
 }
